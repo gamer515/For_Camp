@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Move : MonoBehaviour
 {
-    public float moveSpeed = 3.0f; //확인
+    public float moveSpeed = 3.0f; //확인, 바뀐건가?
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
